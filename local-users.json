@@ -1,0 +1,26 @@
+{
+   "user":{
+        "username":"usuario1",
+        "password": "password1"
+    },
+    "user2":{
+        "username":"usuario2",
+        "password": "password2"
+    },
+    "user3":{
+        "username":"usuario3",
+        "password": "password3"
+    },
+    "user4":{
+        "username":"usuario4",
+        "password": "password4"
+    },
+    "user5":{
+        "username":"usuario5",
+        "password": "password5"
+    },
+    "user6":{
+        "username":"usuario6",
+        "password": "password7"
+    }
+}
